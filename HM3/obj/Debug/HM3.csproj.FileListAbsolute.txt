@@ -1,0 +1,7 @@
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\bin\Debug\HM3.exe.config
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\bin\Debug\HM3.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\bin\Debug\HM3.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\obj\Debug\HM3.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\obj\Debug\HM3.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\obj\Debug\HM3.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM3\obj\Debug\HM3.pdb
