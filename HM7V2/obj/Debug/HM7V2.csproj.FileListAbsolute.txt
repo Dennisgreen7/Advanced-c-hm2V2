@@ -1,0 +1,7 @@
+c:\users\dennis\source\repos\HM7V2\bin\Debug\HM7V2.exe.config
+c:\users\dennis\source\repos\HM7V2\bin\Debug\HM7V2.exe
+c:\users\dennis\source\repos\HM7V2\bin\Debug\HM7V2.pdb
+c:\users\dennis\source\repos\HM7V2\obj\Debug\HM7V2.csprojAssemblyReference.cache
+c:\users\dennis\source\repos\HM7V2\obj\Debug\HM7V2.csproj.CoreCompileInputs.cache
+c:\users\dennis\source\repos\HM7V2\obj\Debug\HM7V2.exe
+c:\users\dennis\source\repos\HM7V2\obj\Debug\HM7V2.pdb
