@@ -1,0 +1,14 @@
+C:\Dot.Net\C# Advanced\Shior3\HM_5\bin\Debug\HM_5.exe.config
+C:\Dot.Net\C# Advanced\Shior3\HM_5\bin\Debug\HM_5.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_5\bin\Debug\HM_5.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_5\obj\Debug\HM_5.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_5\obj\Debug\HM_5.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_5\obj\Debug\HM_5.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_5\obj\Debug\HM_5.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\obj\Debug\HM_5.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\obj\Debug\HM_5.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\obj\Debug\HM_5.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\obj\Debug\HM_5.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\bin\Debug\HM_5.exe.config
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\bin\Debug\HM_5.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_5\bin\Debug\HM_5.pdb
