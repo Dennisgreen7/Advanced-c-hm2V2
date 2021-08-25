@@ -20,14 +20,11 @@ namespace HM3
                 c.Add_((char)rnd.Next('a', 'z'));
                 b.Add_(rnd.Next(100, 200) + rnd.NextDouble());
             }
-            //int[] aar = a.Get_List();
-            //char[] ar2 = c.Get_List();
-            //double[] ar3 = b.Get_List();
+          
             for (int i = 0; i < a.List_.Length; i++)
             {
                 Console.WriteLine("arr1[" + i + "]" + " = " + a.List_[i] + " | arr2[" + i + "]" + " = " + c.List_[i] + " | arr3[" + i + "]" + " = " + b.List_[i]);
-                //Console.WriteLine("arr1["+i+"]"+" = "+aar[i]+ " | arr2[" + i + "]" + " = " + ar2[i]+" | arr3[" + i + "]" + " = " + ar3[i]);
-                //Console.WriteLine();
+               
             }
             Console.ReadLine();
         }
