@@ -24,7 +24,6 @@ namespace HM3
             for (int i = 0; i < a.List_.Length; i++)
             {
                 Console.WriteLine("arr1[" + i + "]" + " = " + a.List_[i] + " | arr2[" + i + "]" + " = " + c.List_[i] + " | arr3[" + i + "]" + " = " + b.List_[i]);
-               
             }
             Console.ReadLine();
         }
