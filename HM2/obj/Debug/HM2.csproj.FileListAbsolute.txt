@@ -1,0 +1,7 @@
+C:\Dot.Net\C# Advanced\Shior3\HM2\bin\Debug\HM2.exe.config
+C:\Dot.Net\C# Advanced\Shior3\HM2\bin\Debug\HM2.exe
+C:\Dot.Net\C# Advanced\Shior3\HM2\bin\Debug\HM2.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM2\obj\Debug\HM2.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior3\HM2\obj\Debug\HM2.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior3\HM2\obj\Debug\HM2.exe
+C:\Dot.Net\C# Advanced\Shior3\HM2\obj\Debug\HM2.pdb
