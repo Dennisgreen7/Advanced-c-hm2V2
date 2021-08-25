@@ -1,7 +1,0 @@
-C:\Dot.Net\C# Advanced\Shior3\HM_6\bin\Debug\HM_6.exe.config
-C:\Dot.Net\C# Advanced\Shior3\HM_6\bin\Debug\HM_6.exe
-C:\Dot.Net\C# Advanced\Shior3\HM_6\bin\Debug\HM_6.pdb
-C:\Dot.Net\C# Advanced\Shior3\HM_6\obj\Debug\HM_6.csprojAssemblyReference.cache
-C:\Dot.Net\C# Advanced\Shior3\HM_6\obj\Debug\HM_6.csproj.CoreCompileInputs.cache
-C:\Dot.Net\C# Advanced\Shior3\HM_6\obj\Debug\HM_6.exe
-C:\Dot.Net\C# Advanced\Shior3\HM_6\obj\Debug\HM_6.pdb
