@@ -1,0 +1,14 @@
+C:\Dot.Net\C# Advanced\Shior3\HM_4\bin\Debug\HM_4.exe.config
+C:\Dot.Net\C# Advanced\Shior3\HM_4\bin\Debug\HM_4.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_4\bin\Debug\HM_4.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_4\obj\Debug\HM_4.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_4\obj\Debug\HM_4.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_4\obj\Debug\HM_4.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_4\obj\Debug\HM_4.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\bin\Debug\HM_4.exe.config
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\bin\Debug\HM_4.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\bin\Debug\HM_4.pdb
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\obj\Debug\HM_4.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\obj\Debug\HM_4.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\obj\Debug\HM_4.exe
+C:\Dot.Net\C# Advanced\Shior3\HM_Shior3\HM_4\obj\Debug\HM_4.pdb
